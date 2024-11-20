@@ -1,4 +1,4 @@
-# Simple HTML CV
+# CV-using-html
 
 A basic CV created using only **HTML** and **CSS**. 
 
