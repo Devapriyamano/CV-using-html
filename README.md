@@ -6,6 +6,8 @@ A basic CV created using only **HTML** and **CSS**.
 - Clean and simple design.
 - Includes sections for contact information, skills, and education.
 - Clickable links for **LinkedIn** and **GitHub**.
+- ## Project Demo
+You can view the project here: [Simple HTML CV](https://<your-Devapriyamano>.github.io/<repository-CV-using-html>/)
 
 ## How to Use
 1. Download or clone this repository.
