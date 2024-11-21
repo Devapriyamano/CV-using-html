@@ -7,7 +7,7 @@ A basic CV created using only **HTML** and **CSS**.
 - Includes sections for contact information, skills, and education.
 - Clickable links for **LinkedIn** and **GitHub**.
 - ## Project Demo
-You can view the project here: [CV using html](https://roadmap.sh/projects/single-page-cv)
+You can view the project here: [CV using html](https://roadmap.sh/projects/single-page-cv) 
 
 ## How to Use
 1. Download or clone this repository.
